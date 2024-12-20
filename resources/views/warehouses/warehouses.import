@@ -1,0 +1,3 @@
+<a href="{{ route('warehouses.import') }}" class="btn btn-primary btn-icon" title="{{ get_label('Import', 'Import') }}">
+    <i class="bx bx-upload"></i>
+</a>

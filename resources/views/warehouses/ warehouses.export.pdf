@@ -1,0 +1,3 @@
+<a href="{{ route('warehouses.export.pdf') }}" class="btn btn-primary btn-icon mr-2" title="{{ get_label('Export to PDF', 'Export to PDF') }}">
+    <i class="bx bx-file-pdf"></i>
+</a>
